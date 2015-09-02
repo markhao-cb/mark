@@ -3,8 +3,8 @@ Mark.Views.IndexView = Backbone.CompositeView.extend({
 
   initialize: function() {
     this.addInfoView();
-    // this.addProjectsView();
-    // this.addContactView();
+    this.addProjectsView();
+    this.addContactView();
   },
 
   addInfoView: function() {

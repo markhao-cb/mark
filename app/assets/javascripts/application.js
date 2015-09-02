@@ -16,6 +16,7 @@
 //= require backbone
 //= require mark
 //= require_tree ./util
+//= require ./api/skel.min.js
 //= require_tree ./api
 //= require_tree ../templates
 //= require_tree ./models

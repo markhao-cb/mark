@@ -8,8 +8,8 @@ Mark.Routers.Router = Backbone.Router.extend({
   },
 
   index: function() {
-    var indexView = new Backbone.Views.IndexView();
-    this.swap(mainView);
+    var indexView = new Mark.Views.IndexView();
+    this.swap(indexView);
   },
 
   swap: function(view) {
