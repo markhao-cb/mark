@@ -2,7 +2,9 @@
 
 My Personal Page
 
-* Single-page website.
+* Single-page website
+* Build on Ruby on Rails
+* Uses Backbone.js for front-end
 * bootstrap & font-awesome
 * CSS 3
 * HTML 5
