@@ -15,6 +15,8 @@
 //= require underscore
 //= require backbone
 //= require mark
+//= require_tree ./util
+//= require_tree ./api
 //= require_tree ../templates
 //= require_tree ./models
 //= require_tree ./collections
